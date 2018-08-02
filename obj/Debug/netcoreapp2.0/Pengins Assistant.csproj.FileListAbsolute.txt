@@ -1,0 +1,16 @@
+C:\Users\JASON\source\repos\Pengins Assistant\Pengins Assistant\bin\Debug\netcoreapp2.0\Pengins Assistant.deps.json
+C:\Users\JASON\source\repos\Pengins Assistant\Pengins Assistant\bin\Debug\netcoreapp2.0\Pengins Assistant.runtimeconfig.json
+C:\Users\JASON\source\repos\Pengins Assistant\Pengins Assistant\bin\Debug\netcoreapp2.0\Pengins Assistant.runtimeconfig.dev.json
+C:\Users\JASON\source\repos\Pengins Assistant\Pengins Assistant\bin\Debug\netcoreapp2.0\Pengins Assistant.dll
+C:\Users\JASON\source\repos\Pengins Assistant\Pengins Assistant\obj\Debug\netcoreapp2.0\Pengins Assistant.csprojAssemblyReference.cache
+C:\Users\JASON\source\repos\Pengins Assistant\Pengins Assistant\obj\Debug\netcoreapp2.0\Pengins Assistant.csproj.CoreCompileInputs.cache
+C:\Users\JASON\source\repos\Pengins Assistant\Pengins Assistant\obj\Debug\netcoreapp2.0\Pengins Assistant.AssemblyInfoInputs.cache
+C:\Users\JASON\source\repos\Pengins Assistant\Pengins Assistant\obj\Debug\netcoreapp2.0\Pengins Assistant.AssemblyInfo.cs
+C:\Users\JASON\source\repos\Pengins Assistant\Pengins Assistant\bin\Debug\netcoreapp2.0\Pengins Assistant.pdb
+C:\Users\JASON\source\repos\Pengins Assistant\Pengins Assistant\obj\Debug\netcoreapp2.0\Pengins Assistant.dll
+C:\Users\JASON\source\repos\Pengins Assistant\Pengins Assistant\obj\Debug\netcoreapp2.0\Pengins Assistant.pdb
+C:\Users\JASON\source\repos\Pengins Assistant\Pengins Assistant\bin\Debug\netcoreapp2.0\Memes\DrPhilFat.png
+C:\Users\JASON\source\repos\Pengins Assistant\Pengins Assistant\bin\Debug\netcoreapp2.0\Memes\Forkknife.png
+C:\Users\JASON\source\repos\Pengins Assistant\Pengins Assistant\bin\Debug\netcoreapp2.0\Memes\FortniteWater.png
+C:\Users\JASON\source\repos\Pengins Assistant\Pengins Assistant\bin\Debug\netcoreapp2.0\Memes\ImpressedPerson.png
+C:\Users\JASON\source\repos\Pengins Assistant\Pengins Assistant\bin\Debug\netcoreapp2.0\Memes\Trump Sad.png
